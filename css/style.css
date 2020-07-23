@@ -1,0 +1,52 @@
+.index
+{
+	height: 700px;
+	width: auto;
+	background-color: grey;
+}
+.header
+{
+	height: 150px;
+	width: auto;
+	background-color: white;
+}
+.form
+{
+	margin: 2pt;
+
+	height: 500px;
+	width: auto;
+	background-color: white;
+}
+.footer
+{
+	margin: 1pt;
+	height: 50px;
+	width: auto;
+	background-color: grey;
+
+
+}
+#u
+{
+		text-align: center;
+	
+		font-size: 40pt;
+		font-style: inherit;
+		color: blue;
+		font-family: all;
+}
+
+#f
+{
+		text-align: center;
+		padding-top: 4pt;
+		font-size: 18pt;
+		font-style: inherit;
+		color: green;
+}
+
+
+
+
+

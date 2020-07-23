@@ -1,0 +1,287 @@
+body{
+font-family: all;
+}
+
+#o{
+			background-color: white;
+			border-bottom: 3px solid #BDC3C7;
+			border-top: 3px solid #BDC3C7;
+			border-right: 3px solid #BDC3C7;
+			border-left: 3px solid #BDC3C7;
+			margin:4px 12px 4px 12px ;
+}
+#header{
+	background: #FF5733; 
+	text-align: center;
+	font-size: 55px;
+	font-family: all;
+	margin-top: 0;
+
+}
+		.i{
+			float:left;
+			height: 60px;
+			margin-left: 10pt;
+			padding: 0;
+		}
+	
+		.j{
+			float:right;
+			height: 60px;
+			margin-right: 4pt;
+			padding: 0;
+		}
+
+#slidenotice
+{
+	height: 23px;
+	background: linear-gradient(grey,white);
+}
+#menu{
+background: linear-gradient(grey,crimson);
+
+
+}
+
+		
+	
+		#menu ul li  a:hover{
+						
+					color: crimson;
+					text-decoration:underline;
+					}
+		#menu ul li a{
+					
+					text-decoration: none;
+					color: black;
+					font-size: 20px;
+					font-family: all;
+				}
+		#menu ul li:active{
+					background: linear-gradient(grey,white);
+					color: black;
+					
+				}
+#c{
+			background: white;
+			
+			
+}
+
+#ms{
+
+			
+			
+			float: left;
+			padding-top: 0px;
+			background:white;
+			border-right: 1px solid #BDC3C7;
+			
+			
+		}
+
+	#ms ul{
+			
+			list-style: none;
+			margin: 0;
+			padding: 0;
+
+
+		}
+	#ms ul li{
+		margin-top: 5px;
+		margin: 2px;
+			padding: 15px;
+			position: relative;
+			width: 150px;
+			vertical-align: middle;
+		background-color: #13395E;
+			border-top: 1px solid #BDC3C7;
+			cursor: pointer;
+			border-top:1px solid #BDC3C7;
+			-webkit-transistion: all 0.3s;
+			-o-transistion:all 0.3s;
+			transition: all 0.3s;
+			border-radius: 6px;
+
+		}
+	#ms ul li:hover{
+				
+				background: linear-gradient(grey,crimson);
+			text-decoration:underline;
+			}
+	#ms ul li a{
+			background-color: #13395E;
+			color: white;
+			text-decoration: none;
+			font-size: 20px;
+		}
+#cn{
+			
+			
+			
+			text-align: justify;
+			
+			
+			
+			
+}
+
+
+#f{
+			background: linear-gradient(grey,green);
+			border-bottom: 3px solid #BDC3C7;
+			border-top: 3px solid #BDC3C7;
+			min-height:30px;
+			text-align: right;
+			
+			font-size: 20px;
+			font-family: all;
+			padding-right: 30pt;
+			padding-top: 4pt;
+
+		
+}body{
+font-family: all;
+}
+
+#o{
+			background-color: white;
+			border-bottom: 3px solid #BDC3C7;
+			border-top: 3px solid #BDC3C7;
+			border-right: 3px solid #BDC3C7;
+			border-left: 3px solid #BDC3C7;
+			margin:4px 12px 4px 12px ;
+}
+#header{
+	background: linear-gradient(grey,green); 
+	text-align: center;
+	font-size: 55px;
+	font-family: all;
+	margin-top: 0;
+
+}
+		.i{
+			float:left;
+			height: 60px;
+			margin-left: 10pt;
+			padding: 0;
+		}
+	
+		.j{
+			float:right;
+			height: 60px;
+			margin-right: 4pt;
+			padding: 0;
+		}
+
+#slidenotice
+{
+	height: 23px;
+	background: linear-gradient(grey,white);
+}
+#menu{
+background: linear-gradient(grey,crimson);
+
+
+}
+
+		
+	
+		#menu ul li  a:hover{
+						
+					color: crimson;
+					text-decoration:underline;
+					}
+		#menu ul li a{
+					
+					text-decoration: none;
+					color: black;
+					font-size: 20px;
+					font-family: all;
+				}
+		#menu ul li:active{
+					background: linear-gradient(grey,white);
+					color: black;
+					
+				}
+#c{
+			background: white;
+			
+			
+}
+
+#ms{
+
+			
+			
+			float: left;
+			padding-top: 0px;
+			background:white;
+			border-right: 1px solid #BDC3C7;
+			
+			
+		}
+
+	#ms ul{
+			
+			list-style: none;
+			margin: 0;
+			padding: 0;
+
+
+		}
+	#ms ul li{
+		margin-top: 5px;
+		margin: 2px;
+			padding: 15px;
+			position: relative;
+			width: 150px;
+			vertical-align: middle;
+		background-color: #13395E;
+			border-top: 1px solid #BDC3C7;
+			cursor: pointer;
+			border-top:1px solid #BDC3C7;
+			-webkit-transistion: all 0.3s;
+			-o-transistion:all 0.3s;
+			transition: all 0.3s;
+			border-radius: 6px;
+
+		}
+	#ms ul li:hover{
+				
+				background: linear-gradient(grey,crimson);
+			text-decoration:underline;
+			}
+	#ms ul li a{
+			background-color: #13395E;
+			color: white;
+			text-decoration: none;
+			font-size: 20px;
+		}
+#cn{
+			
+			
+			
+			text-align: justify;
+			
+			
+			
+			
+}
+
+
+#f{
+			background:#FF5733;
+			border-bottom: 3px solid #BDC3C7;
+			border-top: 3px solid #BDC3C7;
+			min-height:30px;
+			text-align: right;
+			color: white;
+			font-size: 20px;
+			font-family: all;
+			padding-right: 30pt;
+			padding-top: 4pt;
+
+		
+}
